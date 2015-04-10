@@ -1,0 +1,10 @@
+Z:\hugeinc-sitecore\HugeInc.Sitecore.CDN\bin\Debug\HugeInc.Sitecore.CDN.dll
+Z:\hugeinc-sitecore\HugeInc.Sitecore.CDN\bin\Debug\HugeInc.Sitecore.CDN.pdb
+Z:\hugeinc-sitecore\HugeInc.Sitecore.CDN\bin\Debug\AWSSDK.dll
+Z:\hugeinc-sitecore\HugeInc.Sitecore.CDN\bin\Debug\Sitecore.Kernel.dll
+Z:\hugeinc-sitecore\HugeInc.Sitecore.CDN\bin\Debug\HtmlAgilityPack.dll
+Z:\hugeinc-sitecore\HugeInc.Sitecore.CDN\bin\Debug\Sitecore.Zip.dll
+Z:\hugeinc-sitecore\HugeInc.Sitecore.CDN\bin\Debug\AWSSDK.pdb
+Z:\hugeinc-sitecore\HugeInc.Sitecore.CDN\obj\Debug\HugeInc.Sitecore.CDN.csprojResolveAssemblyReference.cache
+Z:\hugeinc-sitecore\HugeInc.Sitecore.CDN\obj\Debug\HugeInc.Sitecore.CDN.dll
+Z:\hugeinc-sitecore\HugeInc.Sitecore.CDN\obj\Debug\HugeInc.Sitecore.CDN.pdb
